@@ -1,0 +1,104 @@
+{
+    "clients": [
+        {
+            "id": "1",
+            "name": "Allan Roque Barbosa da Silva",
+            "email": "allanrockstifo@hotmail.com",
+            "cpf": "01785466402",
+            "cellphone": "11999999999",
+            "birthDate": "01/01/2000",
+            "sex": "M",
+            "address": {
+                "street": "Rua das Laranjeiras",
+                "number": "1000",
+                "complement": "Casa",
+                "city": "São Paulo",
+                "state": "SP",
+                "zipCode": "00000000"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Alex Roque Barbosa da Silva",
+            "email": "alexrockstifo@hotmail.com",
+            "cpf": "01785466402",
+            "cellphone": "11999999999",
+            "birthDate": "01/01/2000",
+            "sex": "M",
+            "address": {
+                "street": "Rua das Laranjeiras",
+                "number": "1000",
+                "complement": "Casa",
+                "city": "São Paulo",
+                "state": "SP",
+                "zipCode": "00000000"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Jackson Roque Barbosa da Silva",
+            "email": "jacksonrockstifo@hotmail.com",
+            "cpf": "01785466402",
+            "cellphone": "11999999999",
+            "birthDate": "01/01/2000",
+            "sex": "M",
+            "address": {
+                "street": "Rua das Laranjeiras",
+                "number": "1000",
+                "complement": "Casa",
+                "city": "São Paulo",
+                "state": "SP",
+                "zipCode": "00000000"
+            }
+        }
+    ],
+    "vehicles": [
+        {
+            "id": "1",
+            "plate": "ofg0819",
+            "vehicle": "Honda Civic 2012",
+            "model": "ELX",
+            "color": "Branco",
+            "brand": "Honda",
+            "year": "2012"
+        },
+        {
+            "id": "2",
+            "plate": "aaa0000",
+            "vehicle": "Toyota Camry 2012",
+            "model": "ELX",
+            "color": "Branco",
+            "brand": "Toyota",
+            "year": "2012"
+        },
+        {
+            "id": "3",
+            "plate": "bbb0000",
+            "vehicle": "Toyota Camry 2012",
+            "model": "ELX",
+            "color": "Branco",
+            "brand": "Toyota",
+            "year": "2012"
+        }
+    ],
+    "checkins": [
+        { 
+            "id": "1",
+            "pictureUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+            "name": "Honda Civic 2012",
+            "plate": "ofg0819"
+        },
+        { 
+            "id": "2",
+            "pictureUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+            "name": "Corolla 2012",
+            "plate": "aaa0000"
+        },
+        { 
+            "id": "3",
+            "pictureUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+            "name": "Jeep Renegayde",
+            "plate": "bbb0000"
+        }
+    ]
+}
